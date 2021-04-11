@@ -62,7 +62,7 @@ public class Main {
     }
     
     public static void kerucut(Scanner input){
-        int tinggi,jari2;
+        int tinggi, jari2;
         
         System.out.print("--INPUT--\n");
         System.out.print("Jari2\t: ");
